@@ -362,6 +362,6 @@ Then search for the name of a file contained within that folder. Press Return to
 	<key>version</key>
 	<string>2022.3</string>
 	<key>webaddress</key>
-	<string>https://www.alfredapp.com</string>
+	<string>https://github.com/alfredapp/dynamic-file-search-workflow/</string>
 </dict>
 </plist>
