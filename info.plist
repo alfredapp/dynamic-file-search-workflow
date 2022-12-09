@@ -359,6 +359,8 @@ Then search for the name of a file contained within that folder. Press Return to
 			<string>keyword</string>
 		</dict>
 	</array>
+	<key>variablesdontexport</key>
+	<array/>
 	<key>version</key>
 	<string>2022.3</string>
 	<key>webaddress</key>
