@@ -4,7 +4,7 @@ Choose a folder, then search for files within it.
 
 ![Dynamic File Search](/images/dynamic-file-search.png)
 
-[⤓ Download Workflow](https://github.com/alfredapp/dynamic-file-search-workflow/releases/latest/download/Dynamic.File.Search.alfredworkflow)
+[⤓ Install From the Alfred Gallery](https://alfred.app/workflows/alfredapp/dynamic-file-search/)
 
 ## Usage
 
