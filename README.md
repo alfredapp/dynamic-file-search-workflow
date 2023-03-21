@@ -1,13 +1,14 @@
-# Dynamic File Search
+# <img src='Workflow/icon.png' width='45' align='center' alt='icon'> Dynamic File Search Alfred Workflow
 
-Choose a folder, then search for files within it.
+Choose a folder, then search for files within it
 
-![Dynamic File Search](/images/dynamic-file-search.png)
-
-[⤓ Install From the Alfred Gallery](https://alfred.app/workflows/alfredapp/dynamic-file-search/)
+[⤓ Install on the Alfred Gallery](https://alfred.app/workflows/alfredapp/dynamic-file-search)
 
 ## Usage
 
-Using your keyword *(default "ff")*, first search for the folder you want to use as search scope. 
+Search for a folder via the `ff` keyword. Press <kbd>↩&#xFE0E;</kbd> to then search for a file contained within the folder.
 
-Then search for the name of a file contained within that folder. Press Return to open the file, or Alt + Return to reveal it in Finder.
+![Dynamic File Search](Workflow/images/about/dynamic-file-search.png)
+
+* <kbd>↩&#xFE0E;</kbd>: Open the file.
+* <kbd>⌥</kbd><kbd>↩&#xFE0E;</kbd>: Reveal in Finder.
